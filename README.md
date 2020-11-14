@@ -1,4 +1,4 @@
-# Untitled
+# njRat
 
 Maleware Njrat
 
