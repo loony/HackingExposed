@@ -13,44 +13,6 @@
 | **Autor** | Marc Ammann, Joël Iselin, Roland Jaggi |
 | **Funktion** | Studierende |
 
-Inhaltsverzeichnis
-
-[1 Versionierung 1]()
-
-[3 Planung 2]()
-
-[4 Einleitung 3]()
-
-[5 Beschreibung 3]()
-
-[5.1 Was macht der Trojaner 3]()
-
-[5.2 Verbreitung und Ursprung 3]()
-
-[5.2.1 Phishing 3]()
-
-[5.3 Einsatzzweck von NjRAT 3]()
-
-[5.4 Zusammenfassung NjRAT 4]()
-
-[6 Beschreibung eines konkreten Malwarebefalls 4]()
-
-[7 Illustration 5]()
-
-[8 Wie bekommt man ihn wieder los 6]()
-
-[8.1 Antivirus Scans 6]()
-
-[9 Abwehrmassnahmen 8]()
-
-[9.1 Abwehrmassnahmen in einem Unternehmen 8]()
-
-[9.2 Abwehrmassnahmen beim Befall von NjRAT 8]()
-
-[10 Schlusswort 8]()
-
-[11 Literaturverzeichnis 8]()
-
 ## Planung
 
 ![Abbildung 1: Planung](.gitbook/assets/0%20%281%29.png)
@@ -100,17 +62,13 @@ Tabelle 1: Zusammenfassung NjRAT
 
 Cybereason Nocturnus untersucht eine Kampagne, bei der Angreifer mehrere Hacker-Tools mit NjRAT, einem bekannten RAT, mit Trojanern versehen. Die Kampagne ermöglicht den Angreifern schließlich den vollständigen Zugriff auf die Zielmaschine. Die Bedrohungsakteure, die hinter dieser Kampagne stehen, posten Malware, die in verschiedene Hacker-Tools eingebettet ist, und Cracks für diese Tools auf mehreren Websites. Sobald die Dateien heruntergeladen und geöffnet sind, sind die Angreifer in der Lage, den Rechner des Opfers vollständig zu übernehmen. In diesem Aufsatz stellen wir unsere Analyse der TTPs der Angreifer und die Indikatoren für eine Kompromittierung vor. Bei der Untersuchung dieser Kampagne haben wir Hunderte von trojanischen Dateien und eine Menge Informationen über die Infrastruktur der Bedrohungsakteure gefunden.
 
-![njRAT Rising - The Increase in Activity of the Remote Access Trojan](.gitbook/assets/1%20%281%29.png)
-
-Abbildung 2: NjRAT Software mit Zugriff auf eine infizierte Maschine
+![Abbildung 2: NjRAT Software mit Zugriff auf eine infizierte Maschine](.gitbook/assets/1%20%281%29.png)
 
 ## Illustration
 
 In der nachfolgenden Illustration wird der Ablauf einer NjRAT Attacke illustriert.
 
-![](.gitbook/assets/2%20%281%29.png)
-
-Abbildung 3: Verdeutlichung eines Angriffs
+![Abbildung 3: Verdeutlichung eines Angriffs](.gitbook/assets/2%20%281%29.png)
 
 ## Wie bekommt man ihn wieder los
 
@@ -129,17 +87,11 @@ Empfehlung um eine solche Attacke wieder los zu werden sind die folgenden:
 
 ### Antivirus Scans
 
-![](.gitbook/assets/3.png)
+![Abbildung 4: Windows Antivirus schneller Scan](.gitbook/assets/3.png)
 
-Abbildung 4: Windows Antivirus schneller Scan
+![Abbildung 5: Windows Antivirus vollwertiger Scan](.gitbook/assets/4%20%281%29.png)
 
-![](.gitbook/assets/4%20%281%29.png)
-
-Abbildung 5: Windows Antivirus vollwertiger Scan
-
-![](.gitbook/assets/5.png)
-
-Abbildung 6: Malwarebyte Scan
+![Abbildung 6: Malwarebyte Scan](.gitbook/assets/5.png)
 
 ## Abwehrmassnahmen
 
