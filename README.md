@@ -45,7 +45,7 @@ Unter dem Begriff Phishing versteht man Versuche, sich über gefälschte Webseit
 
 Die Installation erfolgt in der Regel, ohne sich bemerkbar zu machen. Nach der Installation läuft die Malware im Hintergrund, ohne die Aufmerksamkeit von dem Benutzer auf sich zu ziehen. Dabei sammelt sie verschiedenste sensible Daten.
 
-Es geht den Cyberkriminellen hauptsächlich darum sensible Daten zu bekommen z.B. Passwärter und Benutzernamen oder Fotos damit die Opfer für ein Lösegeld erpresst werden können.
+Es geht den Cyberkriminellen hauptsächlich darum sensible Daten zu bekommen z.B. Passwörter und Benutzernamen oder Fotos damit die Opfer für ein Lösegeld erpresst werden können.
 
 ### Zusammenfassung NjRAT
 
